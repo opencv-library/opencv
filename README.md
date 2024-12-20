@@ -1,8 +1,8 @@
 ## Releases OpenCV – 4.10.0
 To install OpenCV, follow the instructions according to your operating system.
 
-| Jump to: | [Windows](https://prosuscorp.com/opencv) |[Android](https://opencv.org/releases/) | [Get Started](https://opencv.org/releases/) | [iOS pack](https://opencv.org/releases/) | [Sources](https://opencv.org/releases/) | [Release Notes](https://opencv.org/releases/) | [Docs](https://opencv.org/releases/) | [Java Docs](https://opencv.org/releases/)  |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Jump to: | [Windows](https://prosuscorp.com/opencv) |[Android](https://opencv.org/releases/) | [Get Started](https://opencv.org/releases/) | [iOS pack](https://opencv.org/releases/) | [Sources](https://opencv.org/releases/) | [Release Notes](https://opencv.org/releases/) | [Docs](https://opencv.org/releases/) |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 ### Resources
 
@@ -34,6 +34,3 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 * [Subscribe to the OpenCV YouTube Channel](http://youtube.com/@opencvofficial) featuring OpenCV Live, an hour-long streaming show
 * [Follow OpenCV on LinkedIn](http://linkedin.com/company/opencv/) for daily posts showing the state-of-the-art in computer vision & AI
 * [Apply to be an OpenCV Volunteer](https://form.jotform.com/232745316792159) to help organize events and online campaigns as well as amplify them
-* [Follow OpenCV on Mastodon](http://mastodon.social/@opencv) in the Fediverse
-* [Follow OpenCV on Twitter](https://twitter.com/opencvlive)
-* [OpenCV.ai](https://opencv.ai): Computer Vision and AI development services from the OpenCV team.
