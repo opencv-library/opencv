@@ -1,3 +1,40 @@
+</p>
+<br/>
+<div align="center">
+<p align="center">
+  <img width="234" src="opencvv.png"/>
+</p>
+  <p>
+   <a href="https://img.shields.io/badge/license-BSD--3-blue)">
+       <img src="https://sonarcloud.io/api/project_badges/measure?project=netbirdio_netbird&metric=alert_status" />
+     </a> 
+     <a href="https://opencv.org/releases/">
+       <img src="https://img.shields.io/badge/license-BSD--3-blue" />
+     </a> 
+    <br>
+    <a href="https://opencv.org/releases/">
+        <img src="https://img.shields.io/badge/slack-@opencv-red.svg?logo=slack"/>
+     </a>  
+     <br>
+    <a href="https://opencv.org/releases/">
+        <img src="https://img.shields.io/badge/Gurubase-Ask%20OpenCV%20Guru-006BFF"/>
+     </a>    
+  </p>
+</div>
+
+
+<p align="center">
+<strong>
+  <br/>
+  See <a href="https://opencv.org/releases/">Documentation</a>
+  <br/>
+   Join our <a href="https://opencv.org/releases/">Slack channel</a>
+  <br/>
+ 
+</strong>
+</p>
+
+
 ## Releases OpenCV – 4.10.0
 To install OpenCV, follow the instructions according to your operating system.
 
